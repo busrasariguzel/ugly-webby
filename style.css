@@ -9,7 +9,7 @@ h1 {
     letter-spacing: 10px;
 
 
-    line-height: 100px;
+    line-height: 80px;
 
     text-align:center;
 
@@ -65,8 +65,9 @@ li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
     border-bottom: 5px solid blue;
     background-image: url(https://media1.giphy.com/media/OgCCMIX38ap8s/200w.webp?cid=790b761167d8a01121b244b518ab0e9495d0fa7c47b666e7&rid=200w.webp);
-
-    height: 300px
+    color: red;
+    height: 300px;
+    
     
 
 
