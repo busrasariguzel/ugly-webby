@@ -51,7 +51,7 @@ textarea {
     height: 150px;
     background-image: url("../../media/examples/star.png"),
     url("../../media/examples/lizard.png");
-    background-color: crimson;
+    background-color: rgb(220, 20, 143);
 
 
 }
