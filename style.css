@@ -12,6 +12,11 @@ h1 {
     line-height: 80px;
 
     text-align:center;
+    text-decoration-line: line-through;
+    color:navy;
+    text-decoration-color: yellow;
+    
+
 
     
 
@@ -59,6 +64,9 @@ textarea {
 ul, ol {
     margin: 20px;
     padding: 0;
+    color: yellow;
+    text-decoration-line: line-through;
+
 }
 
 li {
@@ -67,7 +75,7 @@ li {
     background-image: url(https://media1.giphy.com/media/OgCCMIX38ap8s/200w.webp?cid=790b761167d8a01121b244b518ab0e9495d0fa7c47b666e7&rid=200w.webp);
     color: red;
     height: 300px;
-    
+
     
 
 
@@ -89,7 +97,7 @@ form {
 
     padding:10px;
     background-color: lightblue
-    background-image: url("img_tree.gif"), url("paper.gif");
+
 
 
 
@@ -98,7 +106,7 @@ form {
 input, textarea {
     padding:5px;
     margin:5px
-    background-image:url("https://i.pinimg.com/originals/cc/61/31/cc61315a9717a99ee94ef6016da9214d.jpg");
+    
     
 
 }
