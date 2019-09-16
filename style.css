@@ -73,7 +73,7 @@ li {
 li:last-child {
     border: none;
     background-color: solid
-    
+
 
 }
 
@@ -101,12 +101,6 @@ input, textarea {
 
 body {
     background-image: url(https://media0.giphy.com/media/hyGmpEzjHSPMQ/giphy.webp?cid=790b76115b1d8bf8f005c011189cac8617d353d9e4aa9ecb&rid=giphy.webp);
-
-
-
-
-
- );
     background-repeat: repeat;
     background-position: center;
     background-attachment: scroll;
