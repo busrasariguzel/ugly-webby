@@ -1,27 +1,58 @@
 h1 {
-    color: #111;
+    color :yellow;
+
+
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 275px;
-    font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
+    font-weight: canvas;
+
+    letter-spacing: 1px;
+
+
+    line-height: 150px
+
+    text-align: right;
+    
+
+
+
+
 }
 
+
+
+
 p {
-    color: #685206;
+    color: orange;
+
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 200px;
+
     margin: 0 0 24px;
-    text-align: justify;
+    text-align: left;
+
     text-justify: inter-word;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+    url("../../media/examples/lizard.png");
+
+
+
+
+
+    
+        
 }
 
 textarea {
     margin: 20px;
     width: 300px;
     height: 150px;
+    background-image: url("../../media/examples/star.png"),
+    url("../../media/examples/lizard.png");
+    background-color: crimson;
+
+
 }
 
 ul, ol {
@@ -31,22 +62,53 @@ ul, ol {
 
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 5px solid blue;
+    background-image: url(https://media2.giphy.com/media/3o85xKQ9tbJiE4xqCI/200w.webp?cid=790b76117a732095b3dbfdff6e6d5671756f5fd083e53f16&rid=200w.webp);
+    height: 300px
+
+
+
 }
-   
+
 li:last-child {
     border: none;
+    background-color: solid
+    
+
 }
 
 form {
     height:110px;
     width:190px;
     margin:auto;
-    border:1px #CCC solid;
+    border:1px blueviolet solid;
+
     padding:10px;
+    background-color: lightblue
+    background-image: url("img_tree.gif"), url("paper.gif");
+
+
+
 }
     
 input, textarea {
     padding:5px;
     margin:5px
+    background-image:url("https://i.pinimg.com/originals/cc/61/31/cc61315a9717a99ee94ef6016da9214d.jpg");
+    
+
 }
+
+body {
+    background-image: url(https://media0.giphy.com/media/hyGmpEzjHSPMQ/giphy.webp?cid=790b76115b1d8bf8f005c011189cac8617d353d9e4aa9ecb&rid=giphy.webp);
+
+
+
+
+
+ );
+    background-repeat: repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-color: darkmagenta;
+ }
