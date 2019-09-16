@@ -12,7 +12,7 @@ h1 {
     line-height: 100px;
 
     text-align:center;
-    
+
     
 
 
@@ -105,7 +105,7 @@ input, textarea {
 body {
     background-image: url(https://media0.giphy.com/media/hyGmpEzjHSPMQ/giphy.webp?cid=790b76115b1d8bf8f005c011189cac8617d353d9e4aa9ecb&rid=giphy.webp);
     background-repeat: repeat;
-    background-position: center;
+    background-position: left;
     background-attachment: scroll;
     background-color:pink;
  }
